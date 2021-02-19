@@ -26,3 +26,4 @@ sudo chmod 755 ${ORACLE_BASE}/oradata/MAALPROY/disk_2
 sudo chmod 755 ${ORACLE_BASE}/oradata/MAALPROY/disk_3
 sudo chmod 755 ${ORACLE_BASE}/oradata/MAALPROY/disk_4
 
+echo "Haciendo un cambio en este script"
